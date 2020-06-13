@@ -13,7 +13,7 @@ Control Flow Graph
 
 
 Тест случаи според Every branch 
-
+![everybranch](https://user-images.githubusercontent.com/63516697/84577972-2e948480-adc1-11ea-8f4c-1ce6064addb5.png)
 
 
 Тест случаи според Multiple condition
