@@ -18,4 +18,5 @@ Control Flow Graph
 
 Тест случаи според Multiple condition
 ![multile condition 1](https://user-images.githubusercontent.com/63516697/84578072-1e30d980-adc2-11ea-87e6-d6087b3fe3a1.png)
+![multiple condition 2](https://user-images.githubusercontent.com/63516697/84578074-238e2400-adc2-11ea-922e-a7bee6fd26c7.png)
 
